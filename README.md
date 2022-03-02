@@ -1,4 +1,3 @@
 - 👋 Selam ben Mali.
 - 👀 Genellikle yazılımla uğraşmayı, hayalimdeki şeyleri yapmayı ve dışarıda gezmeyi seviyorum.
 - 🌱 Şu anda C# dilini öğrenmekle meşgulüm.
-- Sanırım şimdilik yazacaklarım bu kadar.
