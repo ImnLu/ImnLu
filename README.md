@@ -1,2 +1,1 @@
-- 👋 Selam ben Mali.
-- 🌱 Şu anda C# dilini öğrenmekle meşgulüm.
+- I always try to improve myself.
